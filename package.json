@@ -1,0 +1,23 @@
+{
+  "name": "leveling-discord-bot-v14",
+  "version": "1.0.0",
+  "description": "A Simple Discord Leveling Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowcool/Leveling-Discord-Bot-v14.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowcool/Leveling-Discord-Bot-v14/issues"
+  },
+  "homepage": "https://github.com/shadowcool/Leveling-Discord-Bot-v14#readme",
+  "dependencies": {
+    "discord-xp": "^1.1.16",
+    "discord.js": "^14.13.0"
+  }
+}

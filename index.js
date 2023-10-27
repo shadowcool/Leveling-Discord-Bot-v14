@@ -27,8 +27,6 @@ client.on('ready', () => {
 
     })
 
-    console.log(client.commands)
-
 })
 
 client.on('messageCreate', async (message) => {
